@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\bin\Debug\net7.0\Olympiaden.exe
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\bin\Debug\net7.0\Olympiaden.deps.json
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\bin\Debug\net7.0\Olympiaden.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\bin\Debug\net7.0\Olympiaden.dll
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\bin\Debug\net7.0\Olympiaden.pdb
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.dll
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\refint\Olympiaden.dll
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.pdb
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\Olympiaden.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\MonoGame\Olympiaden\obj\Debug\net7.0\ref\Olympiaden.dll
