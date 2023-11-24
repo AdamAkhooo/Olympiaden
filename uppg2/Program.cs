@@ -6,8 +6,6 @@ class Program{
         Console.WriteLine("Skriv N");
         int N = int.Parse(Console.ReadLine());
 
-        int count = 0;
-
         for (int a = 1; a < N; a++)
         {
             int svar = a * (a+1) * (a+2);
@@ -23,6 +21,7 @@ class Program{
              else{
                 break;
             }
+            
         }
         
         
