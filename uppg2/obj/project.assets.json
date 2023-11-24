@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj",
-      "projectName": "Olympiaden",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg2\\uppg2.csproj",
+      "projectName": "uppg2",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg2\\uppg2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

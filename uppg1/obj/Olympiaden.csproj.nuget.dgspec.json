@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg1\\Olympiaden.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg1\\Olympiaden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg1\\Olympiaden.csproj",
         "projectName": "Olympiaden",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\Olympiaden.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg1\\Olympiaden.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\MonoGame\\Olympiaden\\uppg1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
